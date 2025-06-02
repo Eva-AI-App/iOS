@@ -15,11 +15,6 @@ it, simply add the following line to your Podfile:
 pod 'Live2DSDK'
 ```
 
-## Author
-
-NY, nycode.jn@gmail.com
-
-
 ## 🌟 EvaAI Core Module
 
 ### English | 🇺🇸
@@ -155,3 +150,10 @@ EvaAI 集成了 [Live2D Cubism Native Framework](https://github.com/Live2D/Cubis
 ### 📌 注意事项
 
 此项目为 EvaAI 的部分核心模块，并非完整产品。EvaAI 正在持续开发中，欢迎关注与贡献。
+
+---
+
+## Author
+
+NY, nycode.jn@gmail.com
+
