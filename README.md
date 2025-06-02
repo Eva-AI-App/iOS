@@ -19,10 +19,6 @@ pod 'Live2DSDK'
 
 NY, nycode.jn@gmail.com
 
-## License
-
-Live2DSDK is available under the MIT license. See the LICENSE file for more info.
-
 
 ## 🌟 EvaAI Core Module
 
@@ -64,6 +60,7 @@ EvaAI connects to [OpenRouter](https://openrouter.ai) to provide AI interaction 
 
 ### 📁 Structure Overview
 
+
 ```bash
 EvaAI/
 ├── Live2DSDK/
@@ -75,6 +72,16 @@ EvaAI/
 ├── ViewController.swift
 └── README.md
 ```
+
+---
+
+### ⚖️ License & Third-Party Attribution
+
+EvaAI integrates the [Live2D Cubism Native Framework](https://github.com/Live2D/CubismNativeFramework) under the terms of its official license:
+📄 [Live2D Cubism Framework License Agreement](https://github.com/Live2D/CubismNativeFramework/blob/develop/LICENSE.md)
+
+> **You must comply with Live2D’s license when using or distributing this project.**
+> The Live2D SDK is © Live2D Inc. All rights reserved. Commercial use requires a separate license agreement with Live2D Inc.
 
 ---
 
@@ -132,6 +139,16 @@ EvaAI/
 ├── ViewController.swift
 └── README.md
 ```
+
+---
+
+### ⚖️ 授权信息与第三方声明
+
+EvaAI 集成了 [Live2D Cubism Native Framework](https://github.com/Live2D/CubismNativeFramework)，并遵循其官方授权协议：
+📄 [Live2D Cubism Framework 使用许可协议](https://github.com/Live2D/CubismNativeFramework/blob/develop/LICENSE.md)
+
+> **使用或分发本项目时，必须遵守 Live2D 的授权协议。**
+> Live2D SDK 版权归 Live2D Inc. 所有。如用于商业用途，请单独向 Live2D Inc. 申请授权。
 
 ---
 

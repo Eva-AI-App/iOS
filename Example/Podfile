@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '15.0'
+
+target 'Live2DSDK_Example' do
+  pod 'Live2DSDK', :path => '../', :modular_headers => true
+
+  
+end
+
+target 'Live2DSDK_Tests' do
+  pod 'Live2DSDK', :path => '../', :modular_headers => true
+end
